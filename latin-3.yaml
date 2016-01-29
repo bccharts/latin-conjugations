@@ -1,0 +1,72 @@
+label: 3rd Conjugation
+output: latin-3.pdf
+updated: 25 February 2015
+example_word: dūc[ō], duc[ere], {dūx}[ī], {duct}[us]
+note: "* dūcō, dīcō, faciō, and ferō drop the final -e"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | dūc[ō] | dūc[is] | dūc[it] | dūc[imus] | dūc[itis] | dūc[unt]"
+      - "Imperfect | dūc[ēbam] | dūc[ēbās] | dūc[ēbat] | dūc[ēbāmus] | dūc[ēbātis] | dūc[ēbant]"
+      - "Future | dūc[am] | dūc[ēs] | dūc[et] | dūc[ēmus] | dūc[ētis] | dūc[ent]"
+      - "Perfect | dūx[ī] | dūx[istī] | dūx[it] | dūx[imus] | dūx[istis] | dūx[ērunt]"
+      - "Pluperfect | dūx[eram] | dūx[erās] | dūx[erat] | dūx[erāmus] | dūx[erātis] | dūx[erant]"
+      - "Future Perfect | dūx[erō] | dūx[eris] | dūx[erit] | dūx[erimus] | dūx[eritis] | dūx[erint]"
+
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | dūc[or] | dūc[eris] | dūc[itur] | dūc[imur] | dūc[iminī] | dūc[untur]"
+      - "Imperfect | dūc[ēbar] | dūc[ēbāris] | dūc[ēbātur] | dūc[ēbāmur] | dūc[ēbāminī] | dūc[ēbantur]"
+      - "Future | dūc[ar] | dūc[ēris] | dūc[ētur] | dūc[ēmur] | dūc[ēminī] | dūc[entur]"
+      - "Perfect | {duct}[us sum] | {duct}[us es] | {duct}[us est] | {duct}[ī sumus] | {duct}[ī estis] | {duct}[ī sunt]"
+      - "Pluperfect | {duct}[us eram] | {duct}[us erās] | {duct}[us erat] | {duct}[ī erāmus] | {duct}[ī erātis] | {duct}[ī erant]"
+      - "Future Perfect | {duct}[us erō] | {duct}[us eris] | {duct}[us erit] | {duct}[ī erimus] | {duct}[ī eritis] | {duct}[ī erunt]"
+
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | dūc[am] | dūc[ās] | dūc[at] | dūc[āmus] | dūc[ātis] | dūc[ant]"
+      - "Imperfect | dūc[erem] | dūc[erēs] | dūc[eret] | dūc[erēmus] | dūc[erētis] | dūc[erent]"
+      - " | | | | | | "
+      - "Perfect | dūx[erim] | dūx[erīs] | dūx[erit] | dūx[erīmus] | dūx[erītis] | dūx[erint]"
+      - "Pluperfect | dūx[issem] | dūx[issēs] | dūx[isset] | dūx[issēmus] | dūx[issētis] | dūx[issent]"
+      - " | | | | | | "
+
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | dūc[ar] | dūc[āris] | dūc[ātur] | dūc[āmur] | dūc[āminī] | dūc[antur]"
+      - "Imperfect | dūc[erer] | dūc[erēris] | dūc[erētur] | dūc[erēmur] | dūc[erēminī] | dūc[erentur]"
+      - " | | | | | | "
+      - "Perfect | {duct}[us sim] | {duct}[us sīs] | {duct}[us sit] | {duct}[ī sīmus] | {duct}[ī sītis] | {duct}[ī sint]"
+      - "Pluperfect | {duct}[us essem] | {duct}[us essēs] | {duct}[us esset] | {duct}[ī essēmus] | {duct}[ī essētis] | {duct}[ī essent]"
+      - " | | | | | | "
+
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | dūc[ere] | dūc[ī]"
+      - "Perfect | dūx[isse] | {duct}[us esse]"
+      - "Future | {duct}[ūrus esse] | {duct}[um īrī]"
+
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | dūc[ēns] | "
+      - "Future | {duct}[ūrus] | dūc[endus]"
+      - "Perfect | | {duct}[us]"
+
+  - title: Gerund
+    fill: "#a020cb"
+    type: headerless
+    groups:
+      - "| dūc[endī] | dūc[endō] | dūc[endum] | dūc[endō]"
+
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | dūc* | dūc[ere]"
+      - "plural | dūc[ite] | dūc[iminī]"

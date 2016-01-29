@@ -1,0 +1,71 @@
+label: 2nd Conjugation
+output: latin-2.pdf
+updated: 25 February 2015
+example_word: mon[eō], mon[ēre], {monu}[ī], {monit}[us]
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | mon[eō] | mon[ēs] | mon[et] | mon[ēmus] | mon[ētis] | mon[ent]"
+      - "Imperfect | mon[ēbam] | mon[ēbās] | mon[ēbat] | mon[ēbāmus] | mon[ēbātis] | mon[ēbant]"
+      - "Future | mon[ēbō] | mon[ēbis] | mon[ēbit] | mon[ēbimus] | mon[ēbitis] | mon[ēbunt]"
+      - "Perfect | monu[ī] | monu[istī] | monu[it] | monu[imus] | monu[istis] | monu[ērunt]"
+      - "Pluperfect | monu[eram] | monu[erās] | monu[erat] | monu[erāmus] | monu[erātis] | monu[erant]"
+      - "Future Perfect | monu[erō] | monu[eris] | monu[erit] | monu[erimus] | monu[eritis] | monu[erint]"
+
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | mon[eor] | mon[ēris] | mon[ētur] | mon[ēmur] | mon[ēminī] | mon[entur]"
+      - "Imperfect | mon[ēbar] | mon[ēbāris] | mon[ēbātur] | mon[ēbāmur] | mon[ēbāminī] | mon[ēbantur]"
+      - "Future | mon[ēbor] | mon[ēberis] | mon[ēbitur] | mon[ēbimur] | mon[ēbiminī] | mon[ēbuntur]"
+      - "Perfect | {monit}[us sum] | {monit}[us es] | {monit}[us est] | {monit}[ī sumus] | {monit}[ī estis] | {monit}[ī sunt]"
+      - "Pluperfect | {monit}[us eram] | {monit}[us erās] | {monit}[us erat] | {monit}[ī erāmus] | {monit}[ī erātis] | {monit}[ī erant]"
+      - "Future Perfect | {monit}[us erō] | {monit}[us eris] | {monit}[us erit] | {monit}[ī erimus] | {monit}[ī eritis] | {monit}[ī erunt]"
+
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | mon[eam] | mon[eās] | mon[eat] | mon[eāmus] | mon[eātis] | mon[eant]"
+      - "Imperfect | mon[ērem] | mon[ērēs] | mon[ēret] | mon[ērēmus] | mon[ērētis] | mon[ērent]"
+      - " | | | | | | "
+      - "Perfect | {monu}[erim] | {monu}[erīs] | {monu}[erit] | {monu}[erīmus] | {monu}[erītis] | {monu}[erint]"
+      - "Pluperfect | {monu}[issem] | {monu}[issēs] | {monu}[isset] | {monu}[issēmus] | {monu}[issētis] | {monu}[issent]"
+      - " | | | | | | "
+
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | mon[ear] | mon[eāris] | mon[eātur] | mon[eāmur] | mon[eāminī] | mon[eantur]"
+      - "Imperfect | mon[ērer] | mon[ērēris] | mon[ērētur] | mon[ērēmur] | mon[ērēminī] | mon[ērentur]"
+      - " | | | | | | "
+      - "Perfect | {monit}[us sim] | {monit}[us sīs] | {monit}[us sit] | {monit}[ī sīmus] | {monit}[ī sītis] | {monit}[ī sint]"
+      - "Pluperfect | {monit}[us essem] | {monit}[us essēs] | {monit}[us esset] | {monit}[ī essēmus] | {monit}[ī essētis] | {monit}[ī essent]"
+      - " | | | | | | "
+
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | mon[ēre] | mon[ērī]"
+      - "Perfect | {monu}[isse] | {monit}[us esse]"
+      - "Future | {monit}[ūrus esse] | {monit}[um īrī]"
+
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | mon[ēns] | "
+      - "Future | {monit}[ūrus] | mon[endus]"
+      - "Perfect | | {monit}[us]"
+
+  - title: Gerund
+    fill: "#a020cb"
+    type: headerless
+    groups:
+      - "| mon[endī] | mon[endō] | mon[endum] | mon[endō]"
+
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | mon[ē] | mon[ēre]"
+      - "plural | mon[ēte] | mon[ēminī]"

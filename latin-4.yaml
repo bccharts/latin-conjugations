@@ -1,0 +1,71 @@
+label: 4th Conjugation
+output: latin-4.pdf
+updated: 29 January 2016
+example_word: aud[iō], aud[īre], {audīv}[ī], {audīt}[us]
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | aud[iō] | aud[īs] | aud[it] | aud[īmus] | aud[ītis] | aud[iunt]"
+      - "Imperfect | aud[iēbam] | aud[iēbās] | aud[iēbat] | aud[iēbāmus] | aud[iēbātis] | aud[iēbant]"
+      - "Future | aud[iam] | aud[iēs] | aud[iet] | aud[iēmus] | aud[iētis] | aud[ient]"
+      - "Perfect | {audīv}[ī] | {audīv}[istī] | {audīv}[it] | {audīv}[imus] | {audīv}[istis] | {audīv}[ērunt]"
+      - "Pluperfect | {audīv}[eram] | {audīv}[erās] | {audīv}[erat] | {audīv}[erāmus] | {audīv}[erātis] | {audīv}[erant]"
+      - "Future Perfect | {audīv}[erō] | {audīv}[eris] | {audīv}[erit] | {audīv}[erimus] | {audīv}[eritis] | {audīv}[erint]"
+
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | aud[ior] | aud[īris] | aud[ītur] | aud[īmur] | aud[īminī] | aud[iuntur]"
+      - "Imperfect | aud[iēbar] | aud[iēbāris] | aud[iēbātur] | aud[iēbāmur] | aud[iēbāminī] | aud[iēbantur]"
+      - "Future | aud[iar] | aud[iēris] | aud[iētur] | aud[iēmur] | aud[iēminī] | aud[ientur]"
+      - "Perfect | {audīt}[us sum] | {audīt}[us es] | {audīt}[us est] | {audīt}[ī sumus] | {audīt}[ī estis] | {audīt}[ī sunt]"
+      - "Pluperfect | {audīt}[us eram] | {audīt}[us erās] | {audīt}[us erat] | {audīt}[ī erāmus] | {audīt}[ī erātis] | {audīt}[ī erant]"
+      - "Future Perfect | {audīt}[us erō] | {audīt}[us eris] | {audīt}[us erit] | {audīt}[ī erimus] | {audīt}[ī eritis] | {audīt}[ī erunt]"
+
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | aud[iam] | aud[iās] | aud[iat] | aud[iāmus] | aud[iātis] | aud[iant]"
+      - "Imperfect | aud[īrem] | aud[īrēs] | aud[īret] | aud[īrēmus] | aud[īrētis] | aud[īrent]"
+      - " | | | | | | "
+      - "Perfect | {audīv}[erim] | {audīv}[erīs] | {audīv}[erit] | {audīv}[erīmus] | {audīv}[erītis] | {audīv}[erint]"
+      - "Pluperfect | {audīv}[issem] | {audīv}[issēs] | {audīv}[isset] | {audīv}[issēmus] | {audīv}[issētis] | {audīv}[issent]"
+      - " | | | | | | "
+
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | aud[iar] | aud[iāris] | aud[iātur] | aud[iāmur] | aud[iāminī] | aud[iantur]"
+      - "Imperfect | aud[īrer] | aud[īrēris] | aud[īrētur] | aud[īrēmur] | aud[īrēminī] | aud[īrentur]"
+      - " | | | | | | "
+      - "Perfect | {audīt}[us sim] | {audīt}[us sīs] | {audīt}[us sit] | {audīt}[ī sīmus] | {audīt}[ī sītis] | {audīt}[ī sint]"
+      - "Pluperfect | {audīt}[us essem] | {audīt}[us essēs] | {audīt}[us esset] | {audīt}[ī essēmus] | {audīt}[ī essētis] | {audīt}[ī essent]"
+      - " | | | | | | "
+
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | aud[īre] | aud[īrī]"
+      - "Perfect | {audīv}[isse] | {audīt}[us esse]"
+      - "Future | {audīt}[ūrus esse] | {audīt}[um īrī]"
+
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | aud[iēns] | "
+      - "Future | {audīt}[ūrus] | aud[iendus]"
+      - "Perfect | | {audīt}[us]"
+
+  - title: Gerund
+    fill: "#a020cb"
+    type: headerless
+    groups:
+      - "| aud[iendī] | aud[iendō] | aud[iendum] | aud[iendō]"
+
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "Singular | aud[ī] | aud[īre]"
+      - "Plural | aud[īte] | aud[īminī]"

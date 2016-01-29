@@ -1,0 +1,71 @@
+label: 3rd Conjugation i-Stems
+output: latin-3i.pdf
+updated: 25 February 2015
+example_word: incip[iō], incip[ere], {incēp}[ī], {incept}[us]
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | incip[iō] | incip[is] | incip[it] | incip[imus] | incip[itis] | incip[iunt]"
+      - "Imperfect | incip[iēbam] | incip[iēbās] | incip[iēbat] | incip[iēbāmus] | incip[iēbātis] | incip[iēbant]"
+      - "Future | incip[iam] | incip[iēs] | incip[iet] | incip[iēmus] | incip[iētis] | incip[ient]"
+      - "Perfect | {incēp}[ī] | {incēp}[istī] | {incēp}[it] | {incēp}[imus] | {incēp}[istis] | {incēp}[ērunt]"
+      - "Pluperfect | {incēp}[eram] | {incēp}[erās] | {incēp}[erat] | {incēp}[erāmus] | {incēp}[erātis] | {incēp}[erant]"
+      - "Future Perfect | {incēp}[erō] | {incēp}[eris] | {incēp}[erit] | {incēp}[erimus] | {incēp}[eritis] | {incēp}[erint]"
+
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | incip[ior] | incip[eris] | incip[itur] | incip[imur] | incip[iminī] | incip[iuntur]"
+      - "Imperfect | incip[iēbar] | incip[iēbāris] | incip[iēbātur] | incip[iēbāmur] | incip[iēbāminī] | incip[iēbantur]"
+      - "Future | incip[iar] | incip[iēris] | incip[iētur] | incip[iēmur] | incip[iēminī] | incip[ientur]"
+      - "Perfect | {incept}[us sum] | {incept}[us es] | {incept}[us est] | {incept}[ī sumus] | {incept}[ī estis] | {incept}[ī sunt]"
+      - "Pluperfect | {incept}[us eram] | {incept}[us erās] | {incept}[us erat] | {incept}[ī erāmus] | {incept}[ī erātis] | {incept}[ī erant]"
+      - "Future Perfect | {incept}[us erō] | {incept}[us eris] | {incept}[us erit] | {incept}[ī erimus] | {incept}[ī eritis] | {incept}[ī erunt]"
+
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | incip[iam] | incip[iās] | incip[iat] | incip[iāmus] | incip[iātis] | incip[iant]"
+      - "Imperfect | incip[erem] | incip[erēs] | incip[eret] | incip[erēmus] | incip[erētis] | incip[erent]"
+      - " | | | | | | "
+      - "Perfect | {incēp}[erim] | {incēp}[erīs] | {incēp}[erit] | {incēp}[erīmus] | {incēp}[erītis] | {incēp}[erint]"
+      - "Pluperfect | {incēp}[issem] | {incēp}[issēs] | {incēp}[isset] | {incēp}[issēmus] | {incēp}[issētis] | {incēp}[issent]"
+      - " | | | | | | "
+
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | incip[iar] | incip[iāris] | incip[iātur] | incip[iāmur] | incip[iāminī] | incip[iantur]"
+      - "Imperfect | incip[erer] | incip[erēris] | incip[erētur] | incip[erēmur] | incip[erēminī] | incip[erentur]"
+      - " | | | | | | "
+      - "Perfect | {incept}[us sim] | {incept}[us sīs] | {incept}[us sit] | {incept}[ī sīmus] | {incept}[ī sītis] | {incept}[ī sint]"
+      - "Pluperfect | {incept}[us essem] | {incept}[us essēs] | {incept}[us esset] | {incept}[ī essēmus] | {incept}[ī essētis] | {incept}[ī essent]"
+      - " | | | | | | "
+
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | incip[ere] | incip[ī]"
+      - "Perfect | {incēp}[isse] | {incept}[us esse]"
+      - "Future | {incept}[ūrus esse] | {incept}[um īrī]"
+
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | incip[iēns] | "
+      - "Future | {incept}[ūrus] | incip[iendus]"
+      - "Perfect | | {incept}[us]"
+
+  - title: Gerund
+    fill: "#a020cb"
+    type: headerless
+    groups:
+      - "| incip[iendī] | incip[iendō] | incip[iendum] | incip[iendō]"
+
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | incip[e] | incip[ere]"
+      - "plural | incip[ite] | incip[iminī]"

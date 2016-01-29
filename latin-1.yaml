@@ -1,0 +1,71 @@
+label: 1st Conjugation
+output: latin-1.pdf
+updated: 25 February 2015
+example_word: am[ō], am[āre], {amāv}[ī], {amāt}[us]
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | am[ō] | am[ās] | am[at] | am[āmus] | am[ātis] | am[ant]"
+      - "Imperfect | am[ābam] | am[ābās] | am[ābat] | am[ābāmus] | am[ābātis] | am[ābant]"
+      - "Future | am[ābō] | am[ābis] | am[ābit] | am[ābimus] | am[ābitis] | am[ābunt]"
+      - "Perfect | {amāv}[ī] | {amāv}[istī] | {amāv}[it] | {amāv}[imus] | {amāv}[istis] | {amāv}[ērunt]"
+      - "Pluperfect | {amāv}[eram] | {amāv}[erās] | {amāv}[erat] | {amāv}[erāmus] | {amāv}[erātis] | {amāv}[erant]"
+      - "Future Perfect | {amāv}[erō] | {amāv}[eris] | {amāv}[erit] | {amāv}[erimus] | {amāv}[eritis] | {amāv}[erint]"
+
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | am[or] | am[āris] | am[ātur] | am[āmur] | am[āminī] | am[antur]"
+      - "Imperfect | am[ābar] | am[ābāris] | am[ābātur] | am[ābāmur] | am[ābāminī] | am[ābantur]"
+      - "Future | am[ābor] | am[āberis] | am[ābitur] | am[ābimur] | am[ābiminī] | am[ābuntur]"
+      - "Perfect | {amāt}[us sum] | {amāt}[us es] | {amāt}[us est] | {amāt}[ī sumus] | {amāt}[ī estis] | {amāt}[ī sunt]"
+      - "Pluperfect | {amāt}[us eram] | {amāt}[us erās] | {amāt}[us erat] | {amāt}[ī erāmus] | {amāt}[ī erātis] | {amāt}[ī erant]"
+      - "Future Perfect | {amāt}[us ero] | {amāt}[us eris] | {amāt}[us erit] | {amāt}[ī erimus] | {amāt}[ī eritis] | {amāt}[ī erunt]"
+
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | am[em] | am[ēs] | am[et] | am[ēmus] | am[ētis] | am[ent]"
+      - "Imperfect | am[ārem] | am[ārēs] | am[āret] | am[ārēmus] | am[ārētis] | am[ārent]"
+      - " | | | | | | "
+      - "Perfect | {amāv}[erim] | {amāv}[erīs] | {amāv}[erit] | {amāv}[erīmus] | {amāv}[erītis] | {amāv}[erint]"
+      - "Pluperfect | {amāv}[issem] | {amāv}[issēs] | {amāv}[isset] | {amāv}[issēmus] | {amāv}[issētis] | {amāv}[issent]"
+      - " | | | | | | "
+
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | am[er] | am[ēris] | am[ētur] | am[ēmur] | am[ēminī] | am[entur]"
+      - "Imperfect | am[ārer] | am[ārēris] | am[ārētur] | am[ārēmur] | am[ārēminī] | am[ārentur]"
+      - " | | | | | | "
+      - "Perfect | {amāt}[us sim] | {amāt}[us sīs] | {amāt}[us sit] | {amāt}[ī sīmus] | {amāt}[ī sītis] | {amāt}[ī sint]"
+      - "Pluperfect | {amāt}[us essem] | {amāt}[us essēs] | {amāt}[us esset] | {amāt}[us essēmus] | {amāt}[us essētis] | {amāt}[us essent]"
+      - " | | | | | | "
+
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | am[āre] | am[ārī]"
+      - "Perfect | {amāv}[isse] | {amāt}[us esse]"
+      - "Future | {amāt}[ūrus esse] | {amāt}[um īrī]"
+
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | am[āns] |"
+      - "Future | {amāt}[ūrus] | am[andus]"
+      - "Perfect | | {amāt}[us]"
+
+  - title: Gerund
+    fill: "#a020cb"
+    type: headerless
+    groups:
+      - "| am[andī] | am[andō] | am[andum] | am[andō]"
+
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | am[ā] | am[āre]"
+      - "plural | am[āte] | am[āminī]"
