@@ -1,7 +1,7 @@
 label: 3rd Conjugation
 output: latin-3.pdf
 updated: 25 February 2015
-example_word: dūc[ō], duc[ere], {dūx}[ī], {duct}[us]
+example_word: dūc[ō], dūc[ere], {dūx}[ī], {duct}[us]
 note: "* dūcō, dīcō, faciō, and ferō drop the final -e"
 left:
   - title: Active Indicative
