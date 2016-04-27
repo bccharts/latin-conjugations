@@ -1,6 +1,6 @@
 label: 2nd Conjugation
 output: latin-2.pdf
-updated: 25 February 2015
+updated: 27 April 2016
 example_word: mon[eō], mon[ēre], {monu}[ī], {monit}[us]
 left:
   - title: Active Indicative
@@ -48,8 +48,8 @@ right:
     fill: "#42b314"
     groups:
       - "Present | mon[ēre] | mon[ērī]"
-      - "Perfect | {monu}[isse] | {monit}[us esse]"
       - "Future | {monit}[ūrus esse] | {monit}[um īrī]"
+      - "Perfect | {monu}[isse] | {monit}[us esse]"
 
   - title: Participle
     fill: "#b2640a"

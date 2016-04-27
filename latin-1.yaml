@@ -1,6 +1,6 @@
 label: 1st Conjugation
 output: latin-1.pdf
-updated: 25 February 2015
+updated: 27 April 2016
 example_word: am[ō], am[āre], {amāv}[ī], {amāt}[us]
 left:
   - title: Active Indicative
@@ -48,8 +48,8 @@ right:
     fill: "#42b314"
     groups:
       - "Present | am[āre] | am[ārī]"
-      - "Perfect | {amāv}[isse] | {amāt}[us esse]"
       - "Future | {amāt}[ūrus esse] | {amāt}[um īrī]"
+      - "Perfect | {amāv}[isse] | {amāt}[us esse]"
 
   - title: Participle
     fill: "#b2640a"

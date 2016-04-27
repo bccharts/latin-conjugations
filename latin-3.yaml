@@ -1,6 +1,6 @@
 label: 3rd Conjugation
 output: latin-3.pdf
-updated: 15 March 2016
+updated: 27 April 2016
 example_word: dūc[ō], dūc[ere], {dūx}[ī], {duct}[us]
 note: "* dūcō, dīcō, faciō, and ferō drop the final -e"
 left:
@@ -49,8 +49,8 @@ right:
     fill: "#42b314"
     groups:
       - "Present | dūc[ere] | dūc[ī]"
-      - "Perfect | dūx[isse] | {duct}[us esse]"
       - "Future | {duct}[ūrus esse] | {duct}[um īrī]"
+      - "Perfect | dūx[isse] | {duct}[us esse]"
 
   - title: Participle
     fill: "#b2640a"

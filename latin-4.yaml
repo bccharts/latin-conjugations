@@ -1,6 +1,6 @@
 label: 4th Conjugation
 output: latin-4.pdf
-updated: 29 January 2016
+updated: 27 April 2016
 example_word: aud[iō], aud[īre], {audīv}[ī], {audīt}[us]
 left:
   - title: Active Indicative
@@ -48,8 +48,8 @@ right:
     fill: "#42b314"
     groups:
       - "Present | aud[īre] | aud[īrī]"
-      - "Perfect | {audīv}[isse] | {audīt}[us esse]"
       - "Future | {audīt}[ūrus esse] | {audīt}[um īrī]"
+      - "Perfect | {audīv}[isse] | {audīt}[us esse]"
 
   - title: Participle
     fill: "#b2640a"

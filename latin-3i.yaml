@@ -1,6 +1,6 @@
 label: 3rd Conjugation i-Stems
 output: latin-3i.pdf
-updated: 25 February 2015
+updated: 27 April 2016
 example_word: incip[iō], incip[ere], {incēp}[ī], {incept}[us]
 left:
   - title: Active Indicative
@@ -48,8 +48,8 @@ right:
     fill: "#42b314"
     groups:
       - "Present | incip[ere] | incip[ī]"
-      - "Perfect | {incēp}[isse] | {incept}[us esse]"
       - "Future | {incept}[ūrus esse] | {incept}[um īrī]"
+      - "Perfect | {incēp}[isse] | {incept}[us esse]"
 
   - title: Participle
     fill: "#b2640a"
