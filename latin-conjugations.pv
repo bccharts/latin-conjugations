@@ -1,7 +1,7 @@
 import re
 import yaml
 
-with open("latin-3i.yaml", "r") as f:
+with open("latin-1.yaml", "r") as f:
     data = yaml.load(f.read())
 
 page_width = 792
