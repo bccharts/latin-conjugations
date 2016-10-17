@@ -1,6 +1,6 @@
 label: 1st Conjugation
 output: latin-1.pdf
-updated: 27 April 2016
+updated: 17 Oct 2016
 example_word: am[ō], am[āre], {amāv}[ī], {amāt}[us]
 left:
   - title: Active Indicative
@@ -21,7 +21,7 @@ left:
       - "Future | am[ābor] | am[āberis] | am[ābitur] | am[ābimur] | am[ābiminī] | am[ābuntur]"
       - "Perfect | {amāt}[us sum] | {amāt}[us es] | {amāt}[us est] | {amāt}[ī sumus] | {amāt}[ī estis] | {amāt}[ī sunt]"
       - "Pluperfect | {amāt}[us eram] | {amāt}[us erās] | {amāt}[us erat] | {amāt}[ī erāmus] | {amāt}[ī erātis] | {amāt}[ī erant]"
-      - "Future Perfect | {amāt}[us ero] | {amāt}[us eris] | {amāt}[us erit] | {amāt}[ī erimus] | {amāt}[ī eritis] | {amāt}[ī erunt]"
+      - "Future Perfect | {amāt}[us erō] | {amāt}[us eris] | {amāt}[us erit] | {amāt}[ī erimus] | {amāt}[ī eritis] | {amāt}[ī erunt]"
 
   - title: Active Subjunctive
     fill: "#2075cb"
@@ -40,7 +40,7 @@ left:
       - "Imperfect | am[ārer] | am[ārēris] | am[ārētur] | am[ārēmur] | am[ārēminī] | am[ārentur]"
       - " | | | | | | "
       - "Perfect | {amāt}[us sim] | {amāt}[us sīs] | {amāt}[us sit] | {amāt}[ī sīmus] | {amāt}[ī sītis] | {amāt}[ī sint]"
-      - "Pluperfect | {amāt}[us essem] | {amāt}[us essēs] | {amāt}[us esset] | {amāt}[us essēmus] | {amāt}[us essētis] | {amāt}[us essent]"
+      - "Pluperfect | {amāt}[us essem] | {amāt}[us essēs] | {amāt}[us esset] | {amāt}[ī essēmus] | {amāt}[ī essētis] | {amāt}[ī essent]"
       - " | | | | | | "
 
 right:
