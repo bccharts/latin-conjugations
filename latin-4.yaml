@@ -29,7 +29,7 @@ left:
       - "Present | aud[iam] | aud[iās] | aud[iat] | aud[iāmus] | aud[iātis] | aud[iant]"
       - "Imperfect | aud[īrem] | aud[īrēs] | aud[īret] | aud[īrēmus] | aud[īrētis] | aud[īrent]"
       - " | | | | | | "
-      - "Perfect | {audīv}[erim] | {audīv}[erīs] | {audīv}[erit] | {audīv}[erīmus] | {audīv}[erītis] | {audīv}[erint]"
+      - "Perfect | {audīv}[erim] | {audīv}[eris] | {audīv}[erit] | {audīv}[erimus] | {audīv}[eritis] | {audīv}[erint]"
       - "Pluperfect | {audīv}[issem] | {audīv}[issēs] | {audīv}[isset] | {audīv}[issēmus] | {audīv}[issētis] | {audīv}[issent]"
       - " | | | | | | "
 

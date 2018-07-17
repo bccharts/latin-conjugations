@@ -1,6 +1,6 @@
 label: 3rd Conjugation i-Stems
 output: latin-3i.pdf
-updated: 27 April 2016
+updated: 17 July 2018
 example_word: incip[iō], incip[ere], {incēp}[ī], {incept}[us]
 left:
   - title: Active Indicative
@@ -29,7 +29,7 @@ left:
       - "Present | incip[iam] | incip[iās] | incip[iat] | incip[iāmus] | incip[iātis] | incip[iant]"
       - "Imperfect | incip[erem] | incip[erēs] | incip[eret] | incip[erēmus] | incip[erētis] | incip[erent]"
       - " | | | | | | "
-      - "Perfect | {incēp}[erim] | {incēp}[erīs] | {incēp}[erit] | {incēp}[erīmus] | {incēp}[erītis] | {incēp}[erint]"
+      - "Perfect | {incēp}[erim] | {incēp}[eris] | {incēp}[erit] | {incēp}[erimus] | {incēp}[eritis] | {incēp}[erint]"
       - "Pluperfect | {incēp}[issem] | {incēp}[issēs] | {incēp}[isset] | {incēp}[issēmus] | {incēp}[issētis] | {incēp}[issent]"
       - " | | | | | | "
 
