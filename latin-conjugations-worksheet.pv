@@ -1,7 +1,10 @@
+# Note: this is somewhat hackish and needs to be integrated into the main
+# latin-conjugations.pv file at some point
+
 import re
 import yaml
 
-with open("latin-1.yaml", "r") as f:
+with open("latin-conjugations-worksheet.yaml", "r") as f:
     data = yaml.load(f.read())
 
 page_width = 792
@@ -22,7 +25,6 @@ background(1)
 font("Minion", size=11)
 
 stylesheet("ending", weight="bold")
-#stylesheet("stem", italic=True)
     
 def style_line(l):
     # swap out [ending] for <ending>ending</ending>
@@ -39,9 +41,11 @@ def draw_chart(x, y, chart, fill_color="#cb202c", spacing=default_spacing):
     
     stylesheet("ending", fill=fill_color, weight="bold")
 
+    pen(0.5)
+    stroke(0.5)
     for l in chart:
         if l != '':
-            text(0, 0, xml=style_line(l))
+            line(0, 1, 50, 1)
 
         # line spacing
         translate(0, spacing)
@@ -132,18 +136,17 @@ margin = 30
 # Heading
 
 font("Museo Sans", size=14, tracking=15)
-text("Latin — {}".format(data['label']).upper(), margin, margin + 10)
+text("Latin — Conjugation Worksheet".upper(), margin, margin + 10)
 
 align(RIGHT)
 font("Minion", size=9, italic=True, tracking=0)
 stroke(0)
 fill(0.5)
-text("bencrowder.net • Last modified {}".format(data['updated']), page_width-margin, margin + 10)
+text("bencrowder.net — Last modified 1 November 2018", page_width-margin, margin + 10)
 font(italic=False)
 
 align(LEFT)
-if 'example_word' in data:
-    text(margin, margin + 25, xml=style_line(data['example_word']))
+text("Word: ", margin, margin + 25)
 
 pen(0.5)
 
@@ -185,4 +188,4 @@ if 'note' in data:
     text(data['note'], right_x, page_height - margin - 11)
     
 
-export(data['output'])
+export("latin-conjugations-worksheet.pdf")
